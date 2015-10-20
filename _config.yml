@@ -1,8 +1,7 @@
 name: cora
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.46548
-title: Cora Hirashiki
+typography_spectrum: null
 cta:
   domain: null
   bucket: null
@@ -16,14 +15,9 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#73eae0'
-    - '#000000'
-    - '#ffffff'
-    - '#55aaaa'
-    - '#00ff00'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandColors: []
+  brandStrength: null
+  lightness: null
+  saturation: null
+  rhythmicContrast: null
 purpose: []
