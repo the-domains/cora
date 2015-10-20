@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cora Hirashiki]]></title>
         <description><![CDATA[Cora Hirashiki]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cora/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 06:57:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 07:28:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cora/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Road to Recovery]]></title>
+            <description><![CDATA[<article><h1>Road to Recovery</h1><p>When Farzaneh Noori learned in November of 2009 that she had breast cancer, she was, like most people who get that news, shaken and unprepared. Not only did she have a healthy lifestyle that included daily exercise, meditation and a wholesome diet, she was the co-owner of a yoga studio, downtown Pasadena's popular Yoga House.</p><img src="http://www.pasadenamonthly.com/site/img/catalog/articles/JulyAug.Community.YogaHouse.png"></article>]]></description>
+            <link>http://www.pasadenamonthly.com/articles/road-to-recovery-2013-06-20</link>
+            <guid isPermaLink="false">0b748c07-f439-4a98-b610-ec79fbd50b55</guid>
+            <pubDate>Tue, 20 Oct 2015 07:28:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a71f2797-8018-4b71-858f-982851bf6e56.png" alt="" title="">]]></description>
-            <link>undefined0b672d21-a56f-4527-9ed0-620c29dc31ae/index.html</link>
+            <link>https://thegrid.ai/cora/0b672d21-a56f-4527-9ed0-620c29dc31ae/index.html</link>
             <guid isPermaLink="false">0b672d21-a56f-4527-9ed0-620c29dc31ae</guid>
             <pubDate>Tue, 20 Oct 2015 06:57:24 GMT</pubDate>
         </item>
