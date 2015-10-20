@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cora Hirashiki]]></title>
+        <description><![CDATA[Cora Hirashiki]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 06:57:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a71f2797-8018-4b71-858f-982851bf6e56.png" alt="" title="">]]></description>
+            <link>undefined0b672d21-a56f-4527-9ed0-620c29dc31ae/index.html</link>
+            <guid isPermaLink="false">0b672d21-a56f-4527-9ed0-620c29dc31ae</guid>
+            <pubDate>Tue, 20 Oct 2015 06:57:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
